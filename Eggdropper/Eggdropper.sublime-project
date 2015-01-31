@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+
+			"path": "Assets/Scripts",
+
+			/*"syntax_override": 
+			{
+	        	"\\.cs$": [ "Unity Syntax Highlighting", "UnityC#" ],
+
+	        	"\\.js$": [ "Unity Syntax Highlighting", "UnityJavaScript" ],
+			},*/
+
+			"file_exclude_patterns":
+			[
+				"*.dll",
+
+				"*.meta"
+			]
+		}
+	]
+}

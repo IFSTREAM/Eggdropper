@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\EggCollecter.cs" />
      <Compile Include="Assets\Scripts\EggCracker.cs" />
      <Compile Include="Assets\Scripts\EggScript.cs" />
+     <Compile Include="Assets\Scripts\PauseScript.cs" />
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
      <Compile Include="Assets\Scripts\SpawnerScript.cs" />
  <Reference Include="UnityEngine.UI">
