@@ -70,10 +70,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jreiner/GitHub/Eggdropper/Eggdropper/Assets/Scripts"
+		"/Users/jreiner/Documents/GitHub/Eggdropper/Eggdropper/Assets/Scripts"
 	],
 	"file_history":
 	[
+		"/Users/jreiner/Downloads/Wonka/README.md",
+		"/Users/jreiner/Documents/GitHub/Eggdropper/Eggdropper/Assets/Scripts/EggCollecter.cs",
 		"/Users/jreiner/GitHub/Eggdropper/Eggdropper/eggdropper.sublime-project",
 		"/Users/jreiner/GitHub/Eggdropper/Eggdropper/eggdropper.sublime-workspace",
 		"/Users/jreiner/GitHub/Eggdropper/Eggdropper/Assets/Scripts/EggCollecter.cs",
@@ -170,6 +172,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"PlayerScript",
 			"windo"
 		],
 		"highlight": true,
@@ -270,7 +273,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 246.0,
+	"side_bar_width": 172.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
