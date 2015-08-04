@@ -10,6 +10,6 @@ public class EggCracker : MonoBehaviour
 		GameObject Egg = col.gameObject;
 		Destroy(Egg);
 
-		audio.PlayOneShot (crackClips[Random.Range(0,crackClips.Length)]); //Egg Crack Array
+		GetComponent<AudioSource>().PlayOneShot (crackClips[Random.Range(0,crackClips.Length)]); //Egg Crack Array
 	}
 }

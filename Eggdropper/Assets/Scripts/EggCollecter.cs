@@ -17,6 +17,6 @@ public class EggCollecter : MonoBehaviour
         Destroy(Egg);
 
         myPlayerScript.theScore++; //Increase Score
-		audio.PlayOneShot (eggCollect); //Egg Collect Sound
+		GetComponent<AudioSource>().PlayOneShot (eggCollect); //Egg Collect Sound
     }
 }
